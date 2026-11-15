@@ -1,0 +1,11 @@
+pattern_id,start_acc_id,pattern_type,depth,involved_accounts
+pat_0,acc_718,cycle,5,acc_718|acc_704|acc_836|acc_933|acc_126
+pat_1,acc_190,cycle,4,acc_190|acc_789|acc_32|acc_186
+pat_2,acc_918,cycle,7,acc_918|acc_1|acc_33|acc_107|acc_963|acc_857|acc_956
+pat_3,acc_886,cycle,6,acc_886|acc_422|acc_430|acc_783|acc_971|acc_683
+pat_4,acc_181,cycle,7,acc_181|acc_618|acc_53|acc_990|acc_367|acc_597|acc_171
+pat_5,acc_495,cycle,5,acc_495|acc_880|acc_299|acc_180|acc_932
+pat_6,acc_344,cycle,5,acc_344|acc_801|acc_800|acc_90|acc_10
+pat_7,acc_696,cycle,6,acc_696|acc_986|acc_401|acc_456|acc_530|acc_707
+pat_8,acc_709,cycle,4,acc_709|acc_533|acc_797|acc_25
+pat_9,acc_992,cycle,6,acc_992|acc_717|acc_285|acc_197|acc_437|acc_716

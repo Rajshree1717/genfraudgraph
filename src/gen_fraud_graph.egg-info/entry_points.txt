@@ -1,0 +1,3 @@
+[console_scripts]
+gen-fraud-graph = gen_fraud_graph.cli:main
+gen-fraud-graph-evaluate = gen_fraud_graph.evaluate:main

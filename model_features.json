@@ -1,0 +1,13 @@
+[
+    "amount",
+    "hour",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "src_balance",
+    "src_risk",
+    "dst_balance",
+    "dst_risk",
+    "src_account_age",
+    "dst_account_age"
+]
